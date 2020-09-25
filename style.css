@@ -1,0 +1,81 @@
+body {
+    font-family: arial,sans-serif;
+    font-size: medium;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+#centrado{
+    text-align: center;
+    margin-top: 20%;
+    font-size: xx-large;
+}
+
+#idtf{
+    text-decoration: blink;
+    color: rgb(245, 160, 174);
+}
+
+#txt{
+    line-height: 2mm;
+    text-align: right;
+    font-style: oblique;
+    float: right;
+}
+
+#izq{
+    float:left
+}
+
+.cent{
+    text-align: center;
+}
+
+.hora{
+    font-size: smaller;
+    width: 100px;
+    background-color: rgba(99, 98, 98, 0.486);
+}
+
+.proc{
+    background-color: #ADE6D0;
+}
+
+.taller{
+    background-color: #F7F48B;
+}
+
+.prop{
+    background-color:  #E1C6AC;
+}
+
+.ing{
+    background-color: #DEF3FD;
+}
+
+.trad{
+    background-color: #E0BBE4;
+}
+
+.dim{
+    background-color: #FFDFD3;
+}
+
+.est{
+    background-color: #FEC8D8;
+}
+
+.celda{
+    background-color: rgba(99, 98, 98, 0.486);
+}
+
+#esq{
+    background-color: #fff;
+}
+
+#tab2{
+    
+    margin: 0 auto;
+    text-align: left;
+}
