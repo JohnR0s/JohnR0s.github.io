@@ -74,6 +74,11 @@ body {
     background-color: rgba(99, 98, 98, 0.486);
 }
 
+.tab{
+    
+    margin: 0 auto;
+}
+
 #esq{
     background-color: #fff;
 }
